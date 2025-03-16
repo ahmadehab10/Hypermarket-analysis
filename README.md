@@ -1,7 +1,7 @@
 # Hypermarket Sales Performance Analysis (Power BI)
 
 ## Overview
-For this project, I worked on analyzing sales data for a hypermarket using Power BI. My focus was on cleaning the dataset, designing a well-structured data model, and implementing Year-to-Date (YTD) and Previous Year-to-Date (PYTD) measures to track performance trends. I created various visualizations to explore sales performance across different categories like product, customer segments, and time periods.
+For this project, I worked on analyzing sales data for a fictitious Hypermarket using Power BI. My focus was on cleaning the dataset, designing a well-structured data model, and implementing Year-to-Date (YTD) and Previous Year-to-Date (PYTD) measures to track performance trends. I created various visualizations to explore sales performance across different categories like product, customer segments, and time periods.
 
 ## Data Cleaning & Preparation
 To ensure accurate analysis, I started by:
