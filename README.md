@@ -77,5 +77,11 @@ To bring the data to life, I designed three interactive report pages:
 - DAX
 - Power Query
 
+## Conclusion and Recommendations
+Overall, performance improved across all metrics over the years, with 2017 showing better results than 2014. 
 
-This project provides a comprehensive analysis of hypermarket sales performance, covering sales trends, product performance, and customer behavior. The insights from this report can be used to improve decision-making, optimize marketing strategies, and enhance overall business performance.
+In the **YTD vs. PYTD analysis**, the data indicates continuous growth in sales and profitability. 
+
+For the **Product Performance Page**, the most profitable product category was **Technology**, with **Phones and Copiers** being the top-performing products.
+
+In the **Customer Performance Page**, the **Consumer** customer segment was the most profitable and had the lowest churn rate. **California** emerged as the most profitable region. However, the business has been facing challenges in acquiring new customers, as most customers made their first purchase in **2014**, with a declining number of new customers in the following years.
