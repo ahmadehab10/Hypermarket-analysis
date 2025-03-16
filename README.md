@@ -50,7 +50,8 @@ To bring the data to life, I designed three interactive report pages:
 - **YTD vs. PYTD by Category**: Compares product category performance over time.
 - **Gross Profit YTD & PYTD by Month**: A stacked bar and line chart showing profit breakdowns.
 - **Sales Heatmap by Region**: Identifies regional performance patterns.
-- ![image](https://github.com/user-attachments/assets/0bdcf76c-5b2b-4676-b747-30a63d5c4d52)
+  
+  ![image](https://github.com/user-attachments/assets/0bdcf76c-5b2b-4676-b747-30a63d5c4d52)
 
 
 ### 2. Product Performance Analysis
@@ -58,7 +59,8 @@ To bring the data to life, I designed three interactive report pages:
 - **Total Sales by Category and Subcategory**: Shows revenue distribution across product types.
 - **Sales vs. GP% Scatter Plot**: Highlights product profitability.
 - **Stock Turnover Insights**: Analyzes product demand and inventory efficiency.
-- ![image](https://github.com/user-attachments/assets/101b2097-c12a-4b13-8047-a2f0ace8d807)
+  
+  ![image](https://github.com/user-attachments/assets/101b2097-c12a-4b13-8047-a2f0ace8d807)
 
 
 ### 3. Customer Performance Analysis
@@ -66,7 +68,8 @@ To bring the data to life, I designed three interactive report pages:
 - **Customer Acquisition & Churn Trends**: Line and bar charts tracking customer growth and retention.
 - **Sales & Churn Rate by Customer Segment**: Compares performance across consumer, corporate, and home office segments.
 - **CLV Analysis by Year and Segment**: Examines how customer value evolves over time.
-- ![image](https://github.com/user-attachments/assets/5874bf88-1397-4d3b-809e-d06efd88a078)
+  
+  ![image](https://github.com/user-attachments/assets/5874bf88-1397-4d3b-809e-d06efd88a078)
 
 
 ## Tools Used
@@ -74,5 +77,5 @@ To bring the data to life, I designed three interactive report pages:
 - DAX
 - Power Query
 
-## Conclusion
+
 This project provides a comprehensive analysis of hypermarket sales performance, covering sales trends, product performance, and customer behavior. The insights from this report can be used to improve decision-making, optimize marketing strategies, and enhance overall business performance.
